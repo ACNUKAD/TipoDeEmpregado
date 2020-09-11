@@ -37,6 +37,9 @@ public class UebMotors {
 		c2.exibirAnuncio();
 		c2.exibirAnuncio();
 		
+		float impostoC1 = c1.calcularIPVC();
+		
+		
 		
 		
 	}
